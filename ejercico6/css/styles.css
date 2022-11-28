@@ -1,0 +1,20 @@
+.contenedor-pequeño{
+    border: 2px solid;
+    margin: 2%;
+}
+.margenes-texto{
+    margin-left: 10px;
+    
+}
+.margenes-texto-h2{
+    font-family: 'Lucida Sans Unicode';
+    margin-left: 10px;
+    margin-top: 10px;
+    color: rgb(52, 224, 52);
+}
+
+h2 , h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 10px;
+    color: rgb(52, 224, 52);
+}

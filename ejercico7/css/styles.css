@@ -1,0 +1,38 @@
+#color-marron{
+    color:rgb(224, 172, 30);
+}
+
+
+.contenedor-pequeño{
+    border: 2px solid;
+    margin: 2%;
+}
+.margenes-texto{
+    margin-left: 10px;
+    margin-right: 25px;
+    text-align: justify;
+}
+
+.titles-styles{
+    font-family: "Lucida Sans Unicode"; 
+    margin-left: 10px;
+
+    letter-spacing: 5px
+}
+
+h1{
+    color: rgb(49, 129, 49);
+}
+
+h2{
+    color: rgb(126, 228, 126);
+}
+
+h3{
+    color:rgb(196, 164, 76);
+}
+
+hr{
+    margin-right: 10px;
+    margin-left: 10px;
+}
